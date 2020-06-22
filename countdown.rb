@@ -1,5 +1,6 @@
-x = 1 
+x = 1
 
-def countdown
+def countdown(x)
+  while x < 10
   retun "HAPPY NEW YEAR!"
 end
