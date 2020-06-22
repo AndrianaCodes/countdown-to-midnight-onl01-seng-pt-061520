@@ -1,5 +1,5 @@
 x = 1 
 
 def countdown
-  while x < 10
+  retun "HAPPY NEW YEAR!"
 end
